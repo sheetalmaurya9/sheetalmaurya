@@ -1,8 +1,8 @@
-# sheetalmaurya
+
 ![MasterHead](https://image.freepik.com/free-vector/consulting-banner-web-icon-business_35632-115.jpg)
 
-<h1 align="center">Hello ! I'm Sheetal Maurya</h1>
-<h3 align="center">Client Hiring ‌Strategist;‌ 6+‌ ‌years‌ ‌Full‌ ‌Life‌ ‌Cycle‌ ‌Recruiting‌ ‌Operations‌</h3>
+<h1 align="left">Hello ! I'm Sheetal Maurya</h1>
+<h3 align="left">Client Hiring ‌Strategist;‌ 6+‌ ‌years‌ ‌Full‌ ‌Life‌ ‌Cycle‌ ‌Recruiting‌ ‌Operations‌</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheetalmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="sheetalmaurya" /> </p>
 
@@ -35,8 +35,6 @@
 <a href="https://fb.com/https://www.facebook.com/sheetal.maurya.50/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/sheetal.maurya.50/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/sheetalmaurya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/sheetalmaurya/" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheetalmaurya&show_icons=true&locale=en&layout=compact" alt="sheetalmaurya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheetalmaurya&show_icons=true&locale=en" alt="sheetalmaurya" /></p>
 
